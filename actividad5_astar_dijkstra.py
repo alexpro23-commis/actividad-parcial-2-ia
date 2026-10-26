@@ -1,6 +1,4 @@
 """Actividad 5: A* vs Dijkstra sobre una red vial didáctica.
-Los kilómetros son ficticios y no deben usarse para navegación real.
-Requisito: pip install matplotlib
 """
 import math,heapq
 import matplotlib.pyplot as plt
