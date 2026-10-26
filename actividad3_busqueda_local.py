@@ -1,9 +1,6 @@
 """
 ACTIVIDAD 3 — BÚSQUEDA LOCAL
-Comparación de Hill Climbing y Simulated Annealing.
-Requisitos: Python 3, numpy y matplotlib.
-Instalación: pip install numpy matplotlib
-Ejecución: python actividad3_busqueda_local.py
+
 """
 
 import math
